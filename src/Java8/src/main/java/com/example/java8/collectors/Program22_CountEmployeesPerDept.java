@@ -9,4 +9,4 @@ public class Program22_CountEmployeesPerDept {
         System.out.println(m);
     }
 }
-//hhhhhhhhhdd
+//hhhhhhhhhdd fff
