@@ -6,3 +6,4 @@ public class Program29_DistinctElements {
         l.stream().distinct().forEach(System.out::println);
     }
 }
+//sn
