@@ -5,6 +5,7 @@ public class Program21_JoinStrings {
     public static void main(String[] args) {
         List<String> l = Arrays.asList("one","two","three");
 //hello
+//gg
         System.out.println(l.stream().collect(Collectors.joining(",")));
     }
 }
