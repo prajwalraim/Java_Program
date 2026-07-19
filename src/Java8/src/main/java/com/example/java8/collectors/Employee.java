@@ -10,7 +10,7 @@ public class Employee {
 		this.name = name;
 		this.dept = dept;
 		this.salary = salary;
-		this.yearJoined = yearJoined;
+	//aaa	this.yearJoined = yearJoined;
 	}
 
 	public String getName() {
