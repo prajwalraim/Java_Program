@@ -9,3 +9,4 @@ public class Program30_CollectOddToSet {
     }
 }
 //v5
+//v6
