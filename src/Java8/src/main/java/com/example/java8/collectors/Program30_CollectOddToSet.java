@@ -8,3 +8,7 @@ public class Program30_CollectOddToSet {
         System.out.println(s);
     }
 }
+//aug 2 v1
+//aug 2 v2
+//aug 2 v3
+//aug 2 v4
