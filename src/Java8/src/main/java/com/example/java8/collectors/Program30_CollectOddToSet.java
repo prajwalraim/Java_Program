@@ -8,3 +8,4 @@ public class Program30_CollectOddToSet {
         System.out.println(s);
     }
 }
+//aug 2 v1
