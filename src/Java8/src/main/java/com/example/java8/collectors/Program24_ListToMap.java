@@ -12,3 +12,4 @@ public class Program24_ListToMap {
         System.out.println(ks);
     }
 }
+//dd
